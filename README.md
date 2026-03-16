@@ -39,6 +39,16 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="GCP" width="40" height="40"/>
  </p>
 
+<br/>
+
+### 🛠 Herramientas de Redes
+<p align="left">
+  &nbsp;&nbsp;
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/static/v1?message=Wireshark&logo=wireshark&label=&color=1679A7&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="wireshark logo" /></a>&nbsp;&nbsp;
+  <a href="https://www.gns3.com/"><img src="https://img.shields.io/badge/GNS3-00B2E2?style=for-the-badge&logo=gns3&logoColor=white" height="30" alt="gns3 logo" /></a>&nbsp;&nbsp;
+  <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/static/v1?message=Cisco%20Packet%20Tracer&logo=cisco&label=&color=049FD9&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="cisco packet tracer logo" /></a>
+ </p>
+
 ---
 
 ### 📊 Estadísticas
