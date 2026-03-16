@@ -15,7 +15,6 @@
 - 📚 Estudiante de **Ingeniería Informática** en la **UPSA**.
 - 🌱 Desarrollador enfocado en **Redes** y **Sistemas**.
 
-
 <br/>
 
 ### 💻 Lenguajes y Frameworks
