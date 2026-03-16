@@ -13,7 +13,7 @@
 
 - 📍 Salamanca, España.
 - 📚 Estudiante de **Ingeniería Informática** en la **UPSA**.
-- 🌱 Desarrollador enfocado en **Backend** y **Arquitectura Cloud Native**.
+- 🌱 Desarrollador enfocado en **Redes** y **Sistemas**.
 
 
 <br/>
